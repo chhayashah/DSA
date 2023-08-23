@@ -8,6 +8,8 @@ public class ArrayAsFunctionArgument {
         int marks[]={97,98,80};
         update(marks);
 
+
+        // print marks
         for(int i=0;i<marks.length;i++){
             System.out.print(marks[i]+" ");
         }
